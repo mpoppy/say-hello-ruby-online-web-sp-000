@@ -6,4 +6,4 @@ end
 
 say_hello
 
-say_hello(Marc)
+say_hello("Marc")
